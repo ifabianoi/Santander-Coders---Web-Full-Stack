@@ -6,7 +6,7 @@
   🎲 Pig Dice Game
 </h3>
 
-## 🎮 Gameplay
+## 🎮 Gameplay- [Jogue aqui](https://fabiano-genius-game-v2.netlify.app)
 
 ### Neste jogo, a interface do usuário (UI) contém o usuário/jogador que pode fazer três coisas, são as seguintes:
 
