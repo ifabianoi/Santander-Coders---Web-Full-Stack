@@ -122,7 +122,7 @@ const Summary = {
     },
 
     styleBalanceTotal() {
-        const CSSBalance = Transaction.total() > 0 ? 'positive' : 'negative';
+        const CSSBalance = Number(Transaction.total()) >= 0 ? 'positive' : 'negative';
 
         document
           .querySelector('#totalDisplay')
