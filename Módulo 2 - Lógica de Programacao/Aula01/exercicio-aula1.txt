@@ -1,0 +1,8 @@
+Mark e John estão tentando comparar seus IMCs (índices de massa corporal), que é calculado usando a seguinte fórmula:
+IMC = peso/alturaˆ2 = peso/(altura \* altura). (Peso em kg e altura em metros).
+
+1. Guarde o peso e altura de Mark e John em variáveis.
+2. Calcule seus IMCs usando a fórmula.
+3. Crie uma variável booleana 'markMaiorIMC' contendo informação sobre se Mark possui um IMC maior que John.
+   TEST DATA 1: Mark pesa 78kg e tem 1.69m de altura. John pesa 92 Kg e tem 1.95m de altura
+   TEST DATA 2: Mark pesa 95Kg e tem 1.88m de altura. John pesa 85Kg e tem 1.76m de altura.

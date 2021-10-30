@@ -1,0 +1,140 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+p { 
+  color: #8F8F8F; 
+  font-family: "Montserrat-light", sans-serif;
+}
+
+em {
+  font-style: italic;
+  font-family: "Montserrat-light", sans-serif;
+}
+
+.section-top {
+  background-color: #FF4C68;
+  color: #fff;
+}
+
+#title .container-top {
+  padding: 5% 15% 5%;
+  text-align: left;
+}
+
+.navbar { padding: 0 0 3rem; }
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item { padding: 0 18px; }
+
+.nav-link, .button-link { font-family:"Montserrat-light", sans-serif; }
+
+.heading, .title-cta {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.img-title {
+  position: absolute;
+  width: 50%;
+  right: 20%;
+  transform: rotate(25deg); 
+}
+
+#features {
+  position: relative;
+}
+
+.section-features {
+  background-color: #fff;
+}
+
+.container-features {
+  padding: 5% 10%;
+}
+
+.title-feature {
+  font-size: 1.5rem;
+}
+
+.icons {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.section-testimonials {
+  color: #fff;
+  background-color: #ef8172;  
+  padding: 10% 15%  ;
+}
+
+.text-testimonials {
+  font-size: 2rem;
+  line-height: 1.5;
+  padding: 0 10%;
+}
+
+.img-testimonials {
+  width: 8%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.section-press {
+  color: #fff;
+  background-color: #ef8172;
+  align-items: center;
+  padding-bottom: 3%;
+}
+
+.img-press {
+  width: 15%;
+  margin: 15px 15px 40px
+}
+
+.section-pricing {
+  background-color: #fff;
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.section-cta {
+  color: #fff; 
+  background-color: #FF4C68;
+  text-align: center;
+  padding: 10%;
+}
+
+.section-footer {
+  background-color: #fff;
+  text-align: center;
+  padding: 80px 10%;
+}
+
+.social {
+  padding: 5%;
+}
+
+.icon-space {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media (max-width: 1028px) {
+  .title-image {
+     position: static;
+     transform: rotate(0);
+  }
+ }
