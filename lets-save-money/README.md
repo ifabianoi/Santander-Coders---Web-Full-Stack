@@ -4,7 +4,9 @@
 
 
 <h3 align="center">
-  Module 4 challenge - [Ver projeto na Netlify](https://letssavemoney.netlify.app/)
+  Module 4 challenge
+  
+  [Ver projeto na Netlify](https://letssavemoney.netlify.app/)
 </h3>
 
 <p align="center">
