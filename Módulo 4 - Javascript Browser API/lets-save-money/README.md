@@ -57,4 +57,8 @@ Abra o arquivo index.html ou utilize o servidor localhost para visualizar em seu
 
 ![screen-capture-_1_](https://user-images.githubusercontent.com/1951762/139560309-9795138e-f13c-48b1-96c0-55f86d0118d7.gif)
 
+- Adicionado a funcionalidade de remover as transações.
+
+![screen-capture-_2_](https://user-images.githubusercontent.com/1951762/139560388-792b5f98-b99b-49d0-beb1-e817f14b6a4d.gif)
+
 
